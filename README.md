@@ -1,4 +1,3 @@
-<br />
 <h1 align="center">Hallo! <img src="https://raw.githubusercontent.com/runarsf/runarsf/master/assets/hi.gif" width="30px"></h1>
 
 <br />
