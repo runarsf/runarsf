@@ -1,11 +1,15 @@
 <h1 align="center">Hallo! <img src="https://raw.githubusercontent.com/runarsf/runarsf/master/assets/hi.gif" width="30px"></h1>
 
-<br />
+<br>
 
-<div align="center">I'm an ICT student and hobbyist developer from Norway. I like devops and mechanical keyboards.</div>
+<div align="center">I'm an ICT student and hobbyist developer from Norway — I like devops and mechanical keyboards</div>
 
-<br /><br />
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=runarsf&theme=nord&hide_border=true&fire=306998">
-</p>
+### Find me around the web 🌎
+
+- Discord: [runarsf#0001](https://discord.com/users/177098893069254656)
+- Matrix: [@runar:runarsf.dev](https://app.element.io)
+- Telegram: [runarsf](https://t.me/runarsf)
+- Last.fm: [runarsf](https://last.fm/runarsf)
+- Email: [root@runarsf.dev](mailto:root@runarsf.dev)
