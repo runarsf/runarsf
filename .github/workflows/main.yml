@@ -1,7 +1,7 @@
 name: Update README.md
 
 on:
-  push:
+  # push:
   workflow_dispatch:
   schedule:
     - cron:  '15 * * * *'
@@ -37,5 +37,5 @@ jobs:
         run: |-
           git config --global user.email "ci@runarsf.dev"
           git config --global user.name "GitHub Actions"
-          git commit -a -m "ci: update README.md"
+          git commit -a -m "ci: update README.md" || printf "Nothing to commit...\n"
           git push
