@@ -1,0 +1,44 @@
+name: Update README.md
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '30 * * * *'
+
+jobs:
+  build:
+    continue-on-error: false
+
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [ 14.x ]
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Cache dependencies and build outputs
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: |-
+          npm ci
+          cat README.md
+      - name: Generate README.md
+        env:
+          LASTFM_TOKEN: ${{ secrets.LASTFM_TOKEN }}
+        run: npm start
+      - name: Commit and push changes
+        run: |-
+          git add .
+          git config --global user.email "gh-actions@runarsf.dev"
+          git config --global user.name "GitHub Actions"
+          git commit -a -m "Update README.md ($(git config --global user.name))" || printf "No changes to commit\n"
+          git push
