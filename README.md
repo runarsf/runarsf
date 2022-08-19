@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub><h6>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Unleash the Archers &mdash; Through Stars (Abyss) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Unleash+the+Archers&#x2F;_&#x2F;Through+Stars">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fellowship &mdash; Until The Fires Die (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;Until+The+Fires+Die">:musical_note:</a>
 </h6></sub></div>
 
