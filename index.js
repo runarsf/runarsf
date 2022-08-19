@@ -3,14 +3,13 @@ const fetch = require('cross-fetch');
 const mustache = require('mustache');
 
 async function fetchLastFMData () {
+  let payload = new URLSearchParams();
   const params = {
     'api_key': process.env.LASTFM_TOKEN,
     'format': 'json',
     'method': 'user.getrecenttracks',
     'user': 'runarsf'
   };
-
-  let payload = new URLSearchParams();
   for (param in params)
     payload.append(param, params[param]);
 
@@ -24,27 +23,26 @@ async function fetchLastFMData () {
 
   const track = data.recenttracks.track[0];
 
-  let status = [];
-
-  if ('@attr' in track)
-    status.push('Now Playing:');
-  else
-    status.push('Last Played:');
-
-  status.push(`${track.artist['#text']} —`);
-  status.push(track.name);
-
-  const album = track.album['#text'];
-  if (album !== track.name)
-    status.push(`(${album})`);
-
-  return status.join(' ');
+  return {
+    now_playing: track['@attr']?.nowplaying ?? false,
+    track_eq_album: track.name === track.album['#text'],
+    track: track.name,
+    artist: track.artist['#text'],
+    album: track.album['#text'],
+    url: track.url,
+    cover: [
+      track.image[0]['#text'],
+      track.image[1]['#text'],
+      track.image[2]['#text'],
+      track.image[3]['#text'],
+    ],
+  };
 }
 
 async function generateMustacheData () {
   const lastfm_data = await fetchLastFMData();
   return mustache_data = {
-    music: lastfm_data,
+    ...lastfm_data,
   };
 }
 
