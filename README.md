@@ -3,5 +3,5 @@
 <div align="center">an ICT student and hobbyist developer from Norway — I like devops and mechanical keyboards</div>
 
 <br/><br/>
-<div align="right"><sub><h6>Last Played: Fellowship — Until The Fires Die (The Saberlight Chronicles) :musical_note:</h6></sub></div>
+<div align="right"><sub><h6>Now Playing: Fellowship — Hearts Upon the Hill (The Saberlight Chronicles) :musical_note:</h6></sub></div>
 
