@@ -2,13 +2,20 @@ const fs = require('fs');
 const fetch = require('cross-fetch');
 const mustache = require('mustache');
 
+// https://docs.github.com/en/actions/learn-github-actions/environment-variables#default-environment-variables
+const TEMPLATE_FILE = process.env.TEMPLATE_FILE || 'README.mustache';
+const README_FILE   = process.env.README_FILE   || 'README.md';
+const LASTFM_USER   = process.env.LASTFM_USER   || process.env.GITHUB_REPOSITORY_OWNER;
+const LASTFM_TOKEN  = process.env.LASTFM_TOKEN;
+const GITHUB_REPO   = process.env.GITHUB_REPOSITORY;
+
 async function fetchLastFMData () {
   let payload = new URLSearchParams();
   const params = {
-    'api_key': process.env.LASTFM_TOKEN,
+    'api_key': LASTFM_TOKEN,
     'format': 'json',
     'method': 'user.getrecenttracks',
-    'user': 'runarsf'
+    'user': LASTFM_USER,
   };
   for (param in params)
     payload.append(param, params[param]);
@@ -17,7 +24,7 @@ async function fetchLastFMData () {
     method: 'POST',
     body: payload,
     headers: {
-      'user-agent': 'runarsf/runarsf'
+      'user-agent': GITHUB_REPO,
     }
   }).then((res) => res.json());
 
@@ -48,11 +55,11 @@ async function generateMustacheData () {
 
 async function generateReadme () {
   const mustache_data = await generateMustacheData();
-  fs.readFile('README.mustache', (err, data) => {
+  fs.readFile(TEMPLATE_FILE, (err, data) => {
     if (err) throw err;
 
     const output = mustache.render(data.toString(), mustache_data);
-    fs.writeFileSync('README.md', output);
+    fs.writeFileSync(README_FILE, output);
   });
 }
 
