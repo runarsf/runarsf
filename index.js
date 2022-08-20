@@ -33,6 +33,7 @@ async function fetchLastFMData () {
   return {
     now_playing: track['@attr']?.nowplaying ?? false,
     track_eq_album: track.name === track.album['#text'],
+    user: LASTFM_USER,
     track: track.name,
     artist: track.artist['#text'],
     album: track.album['#text'],
