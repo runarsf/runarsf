@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Gabrielle &mdash; Ring meg (Mildt Sagt) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Gabrielle&#x2F;_&#x2F;Ring+meg">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: AronChupa &mdash; LITTLE SWING (Little Swing) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;AronChupa&#x2F;_&#x2F;LITTLE+SWING">:musical_note:</a>
 </sub></div>
 
