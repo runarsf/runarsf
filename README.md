@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: The Electric Swing Circus &mdash; Empires (It Flew By) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;The+Electric+Swing+Circus&#x2F;_&#x2F;Empires">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Katy Perry &mdash; Swish Swish (Witness (Deluxe)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Katy+Perry&#x2F;_&#x2F;Swish+Swish">:musical_note:</a>
 </sub></div>
 
