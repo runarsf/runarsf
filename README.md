@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Fellowship &mdash; Atlas (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;Atlas">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Caladan Brood &mdash; City of Azure Fire (Echoes of Battle) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Caladan+Brood&#x2F;_&#x2F;City+of+Azure+Fire">:musical_note:</a>
 </sub></div>
 
