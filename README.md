@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Bo Burnham &mdash; Welcome to the Internet (Inside (The Songs)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Bo+Burnham&#x2F;_&#x2F;Welcome+to+the+Internet">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Ugg&#39;A &mdash; Dernière Danse &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Ugg%27A&#x2F;_&#x2F;Derni%C3%A8re+Danse">:musical_note:</a>
 </sub></div>
 
