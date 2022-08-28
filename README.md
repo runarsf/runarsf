@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Liricas Analas &mdash; Siemis (AnalFAbad) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Liricas+Analas&#x2F;_&#x2F;Siemis">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Eivør &mdash; Sleep On It (Sleep on It) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Eiv%C3%B8r&#x2F;_&#x2F;Sleep+On+It">:musical_note:</a>
 </sub></div>
 
