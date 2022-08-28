@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Porter Robinson &mdash; Shelter &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Porter+Robinson&#x2F;_&#x2F;Shelter">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Zdob Si Zdub &mdash; Trenulețul (cu Frații Advahov) (Trenulețul) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Zdob+Si+Zdub&#x2F;_&#x2F;Trenule%C8%9Bul+(cu+Fra%C8%9Bii+Advahov)">:musical_note:</a>
 </sub></div>
 
