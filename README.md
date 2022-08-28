@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Bastille &mdash; Stay Awake? (Give Me The Future + Dreams Of The Past) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Bastille&#x2F;_&#x2F;Stay+Awake%3F">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: PLÜSCH &mdash; HÄBS GUET (Plüsch) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;PL%C3%9CSCH&#x2F;_&#x2F;H%C3%84BS+GUET">:musical_note:</a>
 </sub></div>
 
