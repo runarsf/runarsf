@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Jahn Teigen &mdash; Det Vakreste Som Fins - 1994 Remastered Version (Klovn Uten Scene) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Jahn+Teigen&#x2F;_&#x2F;Det+Vakreste+Som+Fins+-+1994+Remastered+Version">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; A-YO (Joanne (Deluxe)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;A-YO">:musical_note:</a>
 </sub></div>
 
