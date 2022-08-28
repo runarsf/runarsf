@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fellowship &mdash; Glory Days (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;Glory+Days">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Pomplamoose &mdash; Les Champs-Elysées (En Français) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Pomplamoose&#x2F;_&#x2F;Les+Champs-Elys%C3%A9es">:musical_note:</a>
 </sub></div>
 
