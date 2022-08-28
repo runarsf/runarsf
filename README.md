@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Bad Romance (The Fame Monster (Deluxe Edition)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Bad+Romance">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Porter Robinson &mdash; Shelter &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Porter+Robinson&#x2F;_&#x2F;Shelter">:musical_note:</a>
 </sub></div>
 
