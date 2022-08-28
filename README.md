@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: ZAYDE WØLF &mdash; You Do You (Modern Alchemy (Deluxe)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;ZAYDE+W%C3%98LF&#x2F;_&#x2F;You+Do+You">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Onuka &mdash; CEAHC &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Onuka&#x2F;_&#x2F;CEAHC">:musical_note:</a>
 </sub></div>
 
