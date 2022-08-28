@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Eric Prydz &mdash; Call On Me - Radio Mix (Call on Me) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Eric+Prydz&#x2F;_&#x2F;Call+On+Me+-+Radio+Mix">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: KALUSH &mdash; Stefania (Kalush Orchestra) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;KALUSH&#x2F;_&#x2F;Stefania+(Kalush+Orchestra)">:musical_note:</a>
 </sub></div>
 
