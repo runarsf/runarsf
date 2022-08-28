@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Ugg&#39;A &mdash; Dernière Danse &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Ugg%27A&#x2F;_&#x2F;Derni%C3%A8re+Danse">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Stephanie Beatriz &mdash; All Of You (Encanto (Original Motion Picture Soundtrack)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Stephanie+Beatriz&#x2F;_&#x2F;All+Of+You">:musical_note:</a>
 </sub></div>
 
