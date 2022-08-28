@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: IC3PEAK &mdash; Смерти Больше Нет (Сказка) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;IC3PEAK&#x2F;_&#x2F;%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D0%B8+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+%D0%9D%D0%B5%D1%82">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Ronela Hajati &mdash; Sekret &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Ronela+Hajati&#x2F;_&#x2F;Sekret">:musical_note:</a>
 </sub></div>
 
