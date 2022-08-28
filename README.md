@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Leslie Hall &mdash; No Pants Policy (Titus Jones Remix) [Remastered] (Songs in the Key of Gold) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Leslie+Hall&#x2F;_&#x2F;No+Pants+Policy+(Titus+Jones+Remix)+%5BRemastered%5D">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Sigmund Groven &mdash; Reodors Ballade &#x3D; Reodor&#x60;S Ballad (Harmonica Album) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Sigmund+Groven&#x2F;_&#x2F;Reodors+Ballade+&#x3D;+Reodor%60S+Ballad">:musical_note:</a>
 </sub></div>
 
