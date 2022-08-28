@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Owl City &mdash; Fireflies (Ocean Eyes) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Owl+City&#x2F;_&#x2F;Fireflies">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Daði Freyr &mdash; 10 Years &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Da%C3%B0i+Freyr&#x2F;_&#x2F;10+Years">:musical_note:</a>
 </sub></div>
 
