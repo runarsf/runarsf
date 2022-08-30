@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Born This Way (Born This Way (International Special Edition Version)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Born+This+Way">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Infected Mushroom &mdash; Ani Mevushal &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Infected+Mushroom&#x2F;_&#x2F;Ani+Mevushal">:musical_note:</a>
 </sub></div>
 
