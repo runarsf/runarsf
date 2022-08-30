@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Peaches &mdash; Rosa helikopter &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Peaches&#x2F;_&#x2F;Rosa+helikopter">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Katy Perry &mdash; Bon Appétit (Witness (Deluxe)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Katy+Perry&#x2F;_&#x2F;Bon+App%C3%A9tit">:musical_note:</a>
 </sub></div>
 
