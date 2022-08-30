@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Siames &mdash; The Wolf (Bounce into the Music) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Siames&#x2F;_&#x2F;The+Wolf">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fazlija &mdash; Helikopter &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fazlija&#x2F;_&#x2F;Helikopter">:musical_note:</a>
 </sub></div>
 
