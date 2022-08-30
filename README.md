@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Mary Jane Holland (ARTPOP) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Mary+Jane+Holland">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: ABBA &mdash; Money, Money, Money (Arrival) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;ABBA&#x2F;_&#x2F;Money,+Money,+Money">:musical_note:</a>
 </sub></div>
 
