@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Dabu Fantastic &mdash; Vo Vorn (Hallo Hund) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Dabu+Fantastic&#x2F;_&#x2F;Vo+Vorn">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Imany &mdash; Don&#39;t Be So Shy - Filatov &amp; Karas Remix (Don&#39;t Be So Shy (Filatov &amp; Karas Remix)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Imany&#x2F;_&#x2F;Don%27t+Be+So+Shy+-+Filatov+&amp;+Karas+Remix">:musical_note:</a>
 </sub></div>
 
