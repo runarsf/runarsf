@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Keith Power &mdash; For Narmer (From &quot;Warframe&quot;) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Keith+Power&#x2F;_&#x2F;For+Narmer+(From+%22Warframe%22)">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: TIX &mdash; Karantene &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;TIX&#x2F;_&#x2F;Karantene">:musical_note:</a>
 </sub></div>
 
