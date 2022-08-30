@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Katy Perry &mdash; Firework (Teenage Dream: The Complete Confection) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Katy+Perry&#x2F;_&#x2F;Firework">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: D.D.E. &mdash; Rompa mi (Det går likar no) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;D.D.E.&#x2F;_&#x2F;Rompa+mi">:musical_note:</a>
 </sub></div>
 
