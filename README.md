@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: NorthTale &mdash; The Rhythm Of Life (Welcome to Paradise) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;NorthTale&#x2F;_&#x2F;The+Rhythm+Of+Life">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fraser Edwards &mdash; This World Can Be Ours (The Architect) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fraser+Edwards&#x2F;_&#x2F;This+World+Can+Be+Ours">:musical_note:</a>
 </sub></div>
 
