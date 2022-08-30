@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Jessica Darrow &mdash; Surface Pressure (Encanto (Original Motion Picture Soundtrack)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Jessica+Darrow&#x2F;_&#x2F;Surface+Pressure">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Konstrakta &mdash; In corpore sano &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Konstrakta&#x2F;_&#x2F;In+corpore+sano">:musical_note:</a>
 </sub></div>
 
