@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Stromae &mdash; Papaoutai (Racine carrée) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Stromae&#x2F;_&#x2F;Papaoutai">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Last Played</a>: MKJ &mdash; Time (Time After Time) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;MKJ&#x2F;_&#x2F;Time">:musical_note:</a>
 </sub></div>
 
