@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Pixie Paris &mdash; Es rappelt im Karton &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Pixie+Paris&#x2F;_&#x2F;Es+rappelt+im+Karton">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Daði Freyr &mdash; Gagnamagnið (Söngvakeppnin 2020) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Da%C3%B0i+Freyr&#x2F;_&#x2F;Gagnamagni%C3%B0">:musical_note:</a>
 </sub></div>
 
