@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: YOASOBI &mdash; 怪物 &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;YOASOBI&#x2F;_&#x2F;%E6%80%AA%E7%89%A9">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Handsome Dancer &mdash; Coincidance &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Handsome+Dancer&#x2F;_&#x2F;Coincidance">:musical_note:</a>
 </sub></div>
 
