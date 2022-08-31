@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Müslüm &mdash; LA BAMBELE (Apochalüpt) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;M%C3%BCsl%C3%BCm&#x2F;_&#x2F;LA+BAMBELE">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Michael Wyckoff &mdash; Pick It Up (Ima Say Ma Namowa) [feat. Jonathan LaMarche] &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Michael+Wyckoff&#x2F;_&#x2F;Pick+It+Up+(Ima+Say+Ma+Namowa)+%5Bfeat.+Jonathan+LaMarche%5D">:musical_note:</a>
 </sub></div>
 
