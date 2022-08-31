@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Arif Vlladi &mdash; Marshi (Po vritet pafajësia) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Arif+Vlladi&#x2F;_&#x2F;Marshi">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Caramell &mdash; Caramelldansen (Supergott) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Caramell&#x2F;_&#x2F;Caramelldansen">:musical_note:</a>
 </sub></div>
 
