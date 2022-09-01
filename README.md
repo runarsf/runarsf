@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Bastille &mdash; Pompeii (All This Bad Blood) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Bastille&#x2F;_&#x2F;Pompeii">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Boney M. &mdash; Rasputin (Daddy Cool) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Boney+M.&#x2F;_&#x2F;Rasputin">:musical_note:</a>
 </sub></div>
 
