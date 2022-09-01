@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Go_A &mdash; Шум &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Go_A&#x2F;_&#x2F;%D0%A8%D1%83%D0%BC">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Infected Mushroom &mdash; Ani Mevushal &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Infected+Mushroom&#x2F;_&#x2F;Ani+Mevushal">:musical_note:</a>
 </sub></div>
 
