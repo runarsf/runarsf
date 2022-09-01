@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Khaled &mdash; Aïcha - Version Mixte (Sahra) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Khaled&#x2F;_&#x2F;A%C3%AFcha+-+Version+Mixte">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Stromae &mdash; Carmen (Racine carrée) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Stromae&#x2F;_&#x2F;Carmen">:musical_note:</a>
 </sub></div>
 
