@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Infected Mushroom &mdash; Ani Mevushal &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Infected+Mushroom&#x2F;_&#x2F;Ani+Mevushal">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Katy Perry &mdash; Firework (Teenage Dream: The Complete Confection) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Katy+Perry&#x2F;_&#x2F;Firework">:musical_note:</a>
 </sub></div>
 
