@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Liricas Analas &mdash; Siemis (AnalFAbad) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Liricas+Analas&#x2F;_&#x2F;Siemis">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Getter Jaani &mdash; Rockefeller Street (Rockefeller Street - Single) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Getter+Jaani&#x2F;_&#x2F;Rockefeller+Street">:musical_note:</a>
 </sub></div>
 
