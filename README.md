@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Donatella (ARTPOP) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Donatella">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: J Pee &mdash; I&#39;m Not Gay &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;J+Pee&#x2F;_&#x2F;I%27m+Not+Gay">:musical_note:</a>
 </sub></div>
 
