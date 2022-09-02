@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Müslüm &mdash; Süpervitamin &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;M%C3%BCsl%C3%BCm&#x2F;_&#x2F;S%C3%BCpervitamin">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: lo &amp; leduc &mdash; 079 (Update 4.0) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;lo+&amp;+leduc&#x2F;_&#x2F;079">:musical_note:</a>
 </sub></div>
 
