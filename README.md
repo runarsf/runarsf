@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: lo &amp; leduc &mdash; 079 (Update 4.0) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;lo+&amp;+leduc&#x2F;_&#x2F;079">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Dead or Alive &mdash; You Spin Me Round (Like a Record) (Youthquake) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Dead+or+Alive&#x2F;_&#x2F;You+Spin+Me+Round+(Like+a+Record)">:musical_note:</a>
 </sub></div>
 
