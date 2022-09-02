@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Steff La Cheffe &mdash; Habibi (Härz Schritt Macherin) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Steff+La+Cheffe&#x2F;_&#x2F;Habibi">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Loreen &mdash; Euphoria (Heal) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Loreen&#x2F;_&#x2F;Euphoria">:musical_note:</a>
 </sub></div>
 
