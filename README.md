@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Fellowship &mdash; Silhouette (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;Silhouette">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Cypisolo &mdash; Gdzie jest biały węgorz ? (Zejście) (Cypis - Gdzie jest biały węgorz ? (Zejście)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Cypisolo&#x2F;_&#x2F;Gdzie+jest+bia%C5%82y+w%C4%99gorz+%3F+(Zej%C5%9Bcie)">:musical_note:</a>
 </sub></div>
 
