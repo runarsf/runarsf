@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Dschinghis Khan &mdash; Moskau (7 Leben) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Dschinghis+Khan&#x2F;_&#x2F;Moskau">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Aura (ARTPOP) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Aura">:musical_note:</a>
 </sub></div>
 
