@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Lady Gaga &mdash; Telephone (The Fame Monster (International Deluxe)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Lady+Gaga&#x2F;_&#x2F;Telephone">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Infected Mushroom &mdash; Ani Mevushal &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Infected+Mushroom&#x2F;_&#x2F;Ani+Mevushal">:musical_note:</a>
 </sub></div>
 
