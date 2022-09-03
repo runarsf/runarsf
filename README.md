@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Pentatonix &mdash; Daft Punk (PTX, Vol. 2) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Pentatonix&#x2F;_&#x2F;Daft+Punk">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fellowship &mdash; The Hours of Wintertime (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;The+Hours+of+Wintertime">:musical_note:</a>
 </sub></div>
 
