@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Peter Hollens &mdash; Jai Ho &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Peter+Hollens&#x2F;_&#x2F;Jai+Ho">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Onuka &mdash; Zenit (kolir) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Onuka&#x2F;_&#x2F;Zenit">:musical_note:</a>
 </sub></div>
 
