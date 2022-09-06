@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Unleash the Archers &mdash; The Matriarch (Apex) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Unleash+the+Archers&#x2F;_&#x2F;The+Matriarch">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: The Red Army Choir &mdash; Katioucha (Chants et Marches de la Grande Guerre Patriotique (1941-1945)) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;The+Red+Army+Choir&#x2F;_&#x2F;Katioucha">:musical_note:</a>
 </sub></div>
 
