@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: CissyM &mdash; IsiXhosa &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;CissyM&#x2F;_&#x2F;IsiXhosa">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Benjamin &mdash; GAY &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Benjamin&#x2F;_&#x2F;GAY">:musical_note:</a>
 </sub></div>
 
