@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Cloudjumper &mdash; Bad Apple &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Cloudjumper&#x2F;_&#x2F;Bad+Apple">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Getter Jaani &mdash; Rockefeller Street (Rockefeller Street - Single) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Getter+Jaani&#x2F;_&#x2F;Rockefeller+Street">:musical_note:</a>
 </sub></div>
 
