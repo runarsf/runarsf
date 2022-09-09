@@ -4,6 +4,6 @@
 
 <br/>
 <div align="right"><sub>
-  <a href="https://www.last.fm/user/runarsf">Last Played</a>: Angel Maxine &mdash; Wo Fie &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Angel+Maxine&#x2F;_&#x2F;Wo+Fie">:musical_note:</a>
+  <a href="https://www.last.fm/user/runarsf">Now Playing</a>: Fellowship &mdash; Until The Fires Die (The Saberlight Chronicles) &nbsp;&nbsp; <a href="https:&#x2F;&#x2F;www.last.fm&#x2F;music&#x2F;Fellowship&#x2F;_&#x2F;Until+The+Fires+Die">:musical_note:</a>
 </sub></div>
 
